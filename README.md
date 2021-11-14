@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quasar App (colegiofull2)
 
 A Quasar Framework app
@@ -24,3 +25,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+=======
+# practicafullstack
+Es la practica numnero 2 del curso 
+>>>>>>> 773e6033b1b170bfdde1b22fb0ca75908f69de74
